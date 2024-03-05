@@ -1,0 +1,45 @@
+.div{
+    background-color: white;
+    height:fit-content;
+    width:fit-content;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-left: 35%;
+    margin-top: 10%;
+    color:grey
+}
+
+.div2{
+    background-color: white;
+    height: 125px;
+    width: 498px;
+    text-align: center;
+    font-size: larger ;
+    padding: fit-content;
+    margin: fit-content;
+    margin-left: 35%;
+}
+
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 7px;
+    height: 60;
+    width: 70%;
+    border-color: greya;
+}
+
+#btn{
+    background-color: #4DB4F9;
+    color: white;
+    border-color: #4DB4F9;
+    border-radius:10px;
+    font-size:large ;
+    margin-top: 20px;
+    height: auto;
+}
